@@ -22,4 +22,4 @@ async function quickstart() {
   console.log(`Sentiment magnitude: ${sentiment.magnitude}`);
 }
 
-quickstart()
+quickstart() // Will fix
